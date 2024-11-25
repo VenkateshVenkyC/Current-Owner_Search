@@ -97,31 +97,28 @@ A current owner search is an essential part of the title search process used in 
 
 ---
 
-What is a Title Search?
+What is a **Title Search?**
 
 A title search involves examining public records to confirm a property’s legal ownership and identify any legal claims, encumbrances, or other restrictions. It ensures the title is clear (free from disputes) and transferable.
 
-Components of a Title Search:
+### Components of a Title Search:
 
-1. Current Owner Search: Verifies the current owner and identifies issues from their ownership period.
-
-
-2. Chain of Title Search: Examines the entire history of property ownership.
+**1. Current Owner Search:** Verifies the current owner and identifies issues from their ownership period.
 
 
-3. Lien Search: Identifies financial claims such as mortgages, tax liens, or judgments.
+**2. Chain of Title Search:** Examines the entire history of property ownership.
 
 
-4. Easements and Restrictions: Reviews any rights others have to use the property or legal restrictions.
+***3. Lien Search:** Identifies financial claims such as mortgages, tax liens, or judgments.
 
 
-
+**4. Easements and Restrictions:** Reviews any rights others have to use the property or legal restrictions.
 
 ---
 
-What Does a Current Owner Search Include?
+**What Does a Current Owner Search Include?**
 
-1. Ownership Verification
+### 1. Ownership Verification
 
 Identifies the current owner based on the last recorded deed.
 
@@ -129,11 +126,11 @@ Confirms the owner’s name, type of ownership (e.g., individual, joint tenancy,
 
 
 
-2. Lien and Encumbrance Check
+### 2. Lien and Encumbrance Check
 
 Determines if the property has any unpaid liens or judgments against it.
 
-Includes financial obligations like:
+**Includes financial obligations like:**
 
 Mortgage liens (primary and secondary).
 
@@ -142,15 +139,13 @@ Tax liens (unpaid property taxes).
 Judgment liens (from lawsuits or unpaid debts).
 
 
-
-
-3. Encroachments and Easements
+**3. Encroachments and Easements**
 
 Reviews any rights others have over the property (e.g., utility easements, access rights).
 
 
 
-4. Tax Records Review
+**4. Tax Records Review**
 
 Ensures property taxes are paid and up to date.
 
@@ -158,29 +153,26 @@ Identifies outstanding assessments (e.g., CDD fees in Florida or HOA dues in Ari
 
 
 
-5. Property Legal Description
+**5. Property Legal Description**
 
 Confirms that the legal description in public records matches the property's physical boundaries.
 
 
 
-6. Pending Legal Actions
+**6. Pending Legal Actions**
 
 Identifies legal disputes involving the property, such as foreclosure or probate cases.
 
 
-
-
-
 ---
 
-Steps in the Current Owner Search Process
+### Steps in the Current Owner Search Process
 
-Step 1: Collect Property Information
+**Step 1:** Collect Property Information
 
 Start with the property address or parcel identification number (PIN). Verify this data using the local County Assessor’s or Recorder’s Office.
 
-Step 2: Examine the Last Recorded Deed
+**Step 2:** Examine the Last Recorded Deed
 
 Retrieve the last deed of conveyance to verify:
 
@@ -191,9 +183,9 @@ Date of ownership transfer.
 Property description.
 
 
-Step 3: Review Lien and Judgment Records
+**Step 3:** Review Lien and Judgment Records
 
-Search for:
+**Search for:**
 
 Mortgage documents recorded against the property.
 
@@ -202,7 +194,7 @@ Tax liens, judgment liens, or mechanics liens.
 HOA dues or assessments (if applicable).
 
 
-Step 4: Analyze Property Taxes
+**Step 4:** Analyze Property Taxes
 
 Check with the County Treasurer’s Office to confirm:
 
@@ -211,7 +203,7 @@ The current year’s taxes are paid.
 No delinquent taxes exist.
 
 
-Step 5: Identify Encumbrances and Restrictions
+**Step 5:** Identify Encumbrances and Restrictions
 
 Look for:
 
@@ -222,28 +214,28 @@ Zoning restrictions or covenants.
 Deed restrictions limiting property use.
 
 
-Step 6: Confirm Public Records Accuracy
+**Step 6:** Confirm Public Records Accuracy
 
 Cross-reference the property records between the County Recorder, Property Appraiser, and Tax Collector offices.
 
 
 ---
 
-While Doing a Title Search - Important Points
+While Doing a **Title** Search - Important Points
 
-1. Accuracy is Key: Verify the current owner’s name matches exactly across all documents. Even minor discrepancies can delay transactions.
-
-
-2. Timeframe Matters: A current owner search focuses solely on the current owner's tenure, typically from the date they acquired the property to the present. This reduces the search timeframe compared to a full chain of title search.
+**1. Accuracy is Key:** Verify the current owner’s name matches exactly across all documents. Even minor discrepancies can delay transactions.
 
 
-3. Verify Legal Description: Ensure the property’s legal description is consistent across all documents. Errors here can lead to disputes.
+**2. Timeframe Matters:** A current owner search focuses solely on the current owner's tenure, typically from the date they acquired the property to the present. This reduces the search timeframe compared to a full chain of title search.
 
 
-4. Mortgage Release: Confirm that all prior mortgages recorded by the current owner have been satisfied or released.
+**3. Verify Legal Description:** Ensure the property’s legal description is consistent across all documents. Errors here can lead to disputes.
 
 
-5. Special Assessments: Watch for assessments unique to the state:
+**4. Mortgage Release:** Confirm that all prior mortgages recorded by the current owner have been satisfied or released.
+
+
+### 5. Special Assessments: Watch for assessments unique to the state:
 
 Florida: CDD fees and potential liens tied to homestead exemptions.
 
@@ -252,20 +244,17 @@ Arizona: HOA dues in gated or planned communities.
 Colorado: Encumbrances tied to water rights in rural properties.
 
 
-
-6. Pending Actions: Identify active lawsuits or probate cases affecting the current owner’s title rights.
-
-
-7. Tax Proration: Calculate unpaid taxes (if any) that may need to be settled at closing.
+**6. Pending Actions:** Identify active lawsuits or probate cases affecting the current owner’s title rights.
 
 
+**7. Tax Proration:** Calculate unpaid taxes (if any) that may need to be settled at closing.
 
 
 ---
 
-State-Specific Details for Current Owner Search
+### State-Specific Details for Current Owner Search
 
-Florida
+**Florida**
 
 Ensure property tax records reflect the homestead exemption (if applicable).
 
@@ -274,7 +263,7 @@ Review both county and municipal liens for compliance with local ordinances.
 Confirm ownership transfer via a Warranty Deed or similar conveyance.
 
 
-Arizona
+**Arizona**
 
 Examine deeds for community property laws, especially for married couples.
 
@@ -283,7 +272,7 @@ Verify HOA restrictions and fines are up to date.
 Ensure Grant Deeds include clear transfer rights.
 
 
-Colorado
+**Colorado**
 
 Pay special attention to water rights and their legal documentation in rural properties.
 
@@ -292,36 +281,35 @@ Validate Deeds of Trust instead of traditional mortgages.
 Check for public easements, especially for properties near natural resources.
 
 
-
 ---
 
-Relatable Images and Examples
+### Relatable Images and Examples
 
-1. Flowchart of Title Search Process
+**1. Flowchart of Title Search Process**
 
 Start > Collect Property Info > Review Last Deed > Check for Liens > Verify Taxes > Confirm Ownership > End.
 
 
 
-2. Sample Deed Image
+**2. Sample Deed Image**
 
 Example screenshot showing the ownership transfer document.
 
 
 
-3. Lien Report Template
+**3. Lien Report Template**
 
 An example report highlighting liens and judgments against the property.
 
 
 
-4. Visual Tax Record Example
+**4. Visual Tax Record Example**
 
 Screenshot of a tax collector’s website with details on unpaid taxes.
 
 
 
-5. State-Specific Considerations Chart
+**5. State-Specific Considerations Chart**
 | State      | Unique Features                      | Key Agencies                | |------------|--------------------------------------|-----------------------------| | Florida    | Homestead Exemption, CDD Fees       | Clerk of Court, Appraiser   | | Arizona    | HOA Restrictions, Community Property| Recorder’s Office, Treasurer| | Colorado   | Water Rights, Deeds of Trust        | Clerk & Recorder, Assessor  |
 
 ---
