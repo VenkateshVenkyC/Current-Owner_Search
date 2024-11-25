@@ -109,7 +109,7 @@ A title search involves examining public records to confirm a property’s legal
 **2. Chain of Title Search:** Examines the entire history of property ownership.
 
 
-***3. Lien Search:** Identifies financial claims such as mortgages, tax liens, or judgments.
+**3. Lien Search:** Identifies financial claims such as mortgages, tax liens, or judgments.
 
 
 **4. Easements and Restrictions:** Reviews any rights others have to use the property or legal restrictions.
