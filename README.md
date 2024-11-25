@@ -90,7 +90,7 @@ To confirm the current owner and assess any encumbrances, ensuring a clear title
 
 ---
 
-Additional Information on Current Owner Search
+### Additional Information on Current Owner Search
 
 A current owner search is an essential part of the title search process used in real estate transactions to ensure the property being purchased or transferred has a clean title. It helps uncover critical details that could impact the transaction, including liens, encumbrances, and potential title defects. Here's an in-depth look at what is involved in the current owner search process and how it integrates into the overall title search:
 
